@@ -1,9 +1,4 @@
-/*
----------------------------------
-Kitsou Eftychia - 3120066
-Moraitidis Dimitrios - 3100240
----------------------------------
-*/
+
 
 #include "Image.h"
 #include <algorithm>
